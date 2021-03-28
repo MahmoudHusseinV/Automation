@@ -1,0 +1,9 @@
+<suite name="Task">
+    <test name="usertests">
+        <classes>
+            <class name="GetAllPostsTest"/>
+            <class name="GetAllPostsTest"/>
+            <class name="GetUserByID"/>
+        </classes>
+    </test>
+</suite>
