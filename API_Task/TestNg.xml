@@ -2,7 +2,7 @@
     <test name="usertests">
         <classes>
             <class name="GetAllPostsTest"/>
-            <class name="GetAllPostsTest"/>
+            <class name="CreateUserTest"/>
             <class name="GetUserByID"/>
         </classes>
     </test>
